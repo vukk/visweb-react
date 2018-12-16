@@ -1,0 +1,11 @@
+# .prettierrc
+printWidth: 80
+trailingComma: es5
+singleQuote: true
+
+#overrides:
+#- files:
+#  - "*.test.js"
+#  - "**/__tests__/*.js"
+#  options:
+#    printWidth: 120
